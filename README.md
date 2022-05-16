@@ -1,5 +1,5 @@
 @IsaacJ60
-- Iterested in CS, machine learning, and game development
+- Interested in CS, machine learning, and game development
 - Currently learning C++
 - Hobbies include playing badminton and video games
 
