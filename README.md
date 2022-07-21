@@ -1,11 +1,13 @@
 @IsaacJ60
 
-Interests:
+**Interests:**
 - Game Development
 - Machine Learning
 - Video Editing
 
+
 VIDEOS: https://drive.google.com/drive/folders/10RrWVQkihtFYJhQEr4So7RSBhdlPkMTs?usp=sharing
+
 DMOJ: https://dmoj.ca/user/IsaacJ60
 
 <!---
