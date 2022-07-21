@@ -6,11 +6,11 @@
 - Video Editing
 
 
-VIDEOS: https://drive.google.com/drive/folders/10RrWVQkihtFYJhQEr4So7RSBhdlPkMTs?usp=sharing
+*Linktree*: https://linktr.ee/isaacj6
 
-DMOJ: https://dmoj.ca/user/IsaacJ60
+*Videos*: https://drive.google.com/drive/folders/10RrWVQkihtFYJhQEr4So7RSBhdlPkMTs?usp=sharing
 
-LINKTREE: https://linktr.ee/isaacj6
+*DMOJ*: https://dmoj.ca/user/IsaacJ60
 
 <!---
 IsaacJ60/IsaacJ60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
