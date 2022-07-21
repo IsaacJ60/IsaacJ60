@@ -1,9 +1,12 @@
 @IsaacJ60
-- Interested in CS, machine learning, and game development
-- Currently learning C++
-- Hobbies include playing badminton and video games
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3DTB7M)
+Interests:
+- Game Development
+- Machine Learning
+- Video Editing
+
+VIDEOS: https://drive.google.com/drive/folders/10RrWVQkihtFYJhQEr4So7RSBhdlPkMTs?usp=sharing
+DMOJ: https://dmoj.ca/user/IsaacJ60
 
 <!---
 IsaacJ60/IsaacJ60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
