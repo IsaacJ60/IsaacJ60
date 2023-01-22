@@ -1,6 +1,9 @@
 @IsaacJ60
 
-# Hi, I'm Isaac
+## __Hi, I'm Isaac__
+
+[Mysterious Link...](https://dmoj.ca/user/IsaacJ60)
+
 
 <!---
 IsaacJ60/IsaacJ60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
