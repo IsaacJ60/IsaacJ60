@@ -1,16 +1,6 @@
 @IsaacJ60
 
-**Interests:**
-- Game Development
-- Machine Learning
-- Video Editing
-
-
-*Linktree*: https://linktr.ee/isaacj6
-
-*Videos*: https://drive.google.com/drive/folders/10RrWVQkihtFYJhQEr4So7RSBhdlPkMTs?usp=sharing
-
-*DMOJ*: https://dmoj.ca/user/IsaacJ60
+Hello!
 
 <!---
 IsaacJ60/IsaacJ60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
