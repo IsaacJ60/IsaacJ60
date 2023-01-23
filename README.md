@@ -1,22 +1,22 @@
-# __```cout << "Hello, I'm Isaac!";```__
+# __```Hello, I'm Isaac```__
 ```brainfuck
 -[------->+<]>-.--[-->+++<]>.[----->++<]>++.------------.++++[->++<]>+.+[-->+<]>++.---[->+++<]>+.[->+++++<]>-.++++[->++<]>+.+[->+++++<]>+.++[->+++<]>++..++.[--->+<]>.
 ```
 
-<img align="right" width="300" height="600" src="09.png">
+<img align="right" width="550" height="343" src="anime-leaves.gif">
 
 ### [About me](https://github.com/IsaacJ60): 
 
 🔭 Junior at Vincent Massey SS
-___
+
 ### Interests:
 - Competitive Programming
 - Game Development
-___
-### Talk to me!
+
+### Contact Info:
 - Discord: error.lw#0733
 - Email: isaac.jiang66@gmail.com 
-___
+
 
 [Mysterious Link...](https://dmoj.ca/user/IsaacJ60)
 
