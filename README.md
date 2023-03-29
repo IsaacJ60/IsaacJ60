@@ -10,12 +10,14 @@
 🔭 Junior at Vincent Massey SS
 
 ### Interests:
-- Competitive Programming
-- Game Development
+- Competitive Programming! 🐍
+- Game Development! 🎮
+- Badminton! 🏸
+- Video Editing! 📽️
 
 ### Contact Info:
 - Discord: error.lw#0733
-- Email: isaac.jiang66@gmail.com 
+- Email: isaac.jiang66@gmail.com
 
 
 [Mysterious Link...](https://dmoj.ca/user/IsaacJ60)
