@@ -19,7 +19,7 @@
 ### Contact Info
 - Discord: erro.lw#0733
 - Email: isaac.jiang66@gmail.com
-- Website: [isaacjiang.ca](isaacjiang.ca)
+- Website: [isaacjiang.ca](https://isaacjiang.ca)
 - Blog: [isaacj60.github.io](https://isaacj60.github.io)
 
 MasseyHacks [blog post](https://www.inspiritai.com/blogs/ai-student-blog/masseyhacks#:~:text=MasseyHacks%20is%20a%20hackathon%20event,its%20welcoming%20and%20inclusive%20environment) written by me!
