@@ -3,7 +3,7 @@
 -[------->+<]>-.--[-->+++<]>.[----->++<]>++.------------.++++[->++<]>+.+[-->+<]>++.---[->+++<]>+.[->+++++<]>-.++++[->++<]>+.+[->+++++<]>+.++[->+++<]>++..++.[--->+<]>.
 ```
 
-<img margin=20px align="right" width="550" height="343" src="anime-leaves.gif">
+<img margin="20" align="right" width="550" height="343" src="anime-leaves.gif">
 
 ## [About Me](https://github.com/IsaacJ60)
 
