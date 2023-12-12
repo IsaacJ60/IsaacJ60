@@ -14,7 +14,6 @@
 - Game Development! 🎮
 - Badminton! 🏸
 - Video Editing & Gaming! 📽️
-- Bit of Web Development
 
 ### Contact Info
 - Discord: ijzh
