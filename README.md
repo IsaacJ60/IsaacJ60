@@ -17,7 +17,7 @@
 - Bit of Web Development
 
 ### Contact Info
-- Discord: erro.lw#0733
+- Discord: ijzh
 - Email: isaac.jiang66@gmail.com
 - Website: [isaacjiang.ca](https://isaacjiang.ca)
 - Blog: [isaacj60.github.io](https://isaacj60.github.io)
