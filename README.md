@@ -7,13 +7,15 @@
 
 ## [About Me](https://github.com/IsaacJ60)
 
-🔭 Junior at Vincent Massey SS in Windsor, ON
+🔭 Senior @ Vincent Massey SS in Windsor, ON
 
 ### Interests
-- Competitive Programming! 🐍
-- Game Development! 🎮
-- Badminton! 🏸
-- Video Editing & Gaming! 📽️
+- Competitive Programming!🐍
+- Game Development!🎮
+- Badminton!🏸
+- Video Editing & Gaming!📽️
+- Science Fiction!⚛️
+- Cycling!🚲
 
 ### Contact Info
 - Discord: ijzh
