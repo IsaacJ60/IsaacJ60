@@ -7,7 +7,7 @@
 
 ## [About Me](https://github.com/IsaacJ60)
 
-🔭 Senior @ Vincent Massey SS in Windsor, ON
+🔭 Waterloo CS '29
 
 ### Interests
 - Competitive Programming!🐍
@@ -18,7 +18,7 @@
 - Cycling!🚲
 
 ### Contact Info
-- Discord: ijzh
+- Discord: eyesackle
 - Email: isaac.jiang66@gmail.com
 - Website: [isaacjiang.ca](https://isaacjiang.ca)
 - Blog: [isaacj60.github.io](https://isaacj60.github.io)
