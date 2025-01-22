@@ -10,7 +10,6 @@
 🔭 Waterloo CS '29
 
 ### Interests
-- Competitive Programming!🐍
 - Game Development!🎮
 - Badminton!🏸
 - Video Editing & Gaming!📽️
@@ -18,16 +17,13 @@
 - Cycling!🚲
 
 ### Contact Info
-- Discord: eyesackle
-- Email: isaac.jiang66@gmail.com
+- Email: i4jiang@uwaterloo.ca
 - Website: [isaacjiang.ca](https://isaacjiang.ca)
-- Blog: [isaacj60.github.io](https://isaacj60.github.io)
+- Linkedin: [IsaacJ60](https://www.linkedin.com/in/isaac6/)
 
 ---
 
 MasseyHacks [blog post](https://www.inspiritai.com/blogs/ai-student-blog/masseyhacks#:~:text=MasseyHacks%20is%20a%20hackathon%20event,its%20welcoming%20and%20inclusive%20environment) written by me!
-
-[Mysterious Link...](https://dmoj.ca/user/IsaacJ60)
 
 <!---
 IsaacJ60/IsaacJ60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
