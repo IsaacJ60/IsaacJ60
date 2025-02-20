@@ -5,7 +5,7 @@
 
 ## [About Me](https://github.com/IsaacJ60)
 
-<img margin="20" align="right" width="400" height="250" src="anime-leaves.gif">
+<img margin="20" align="right" width="350" height="200" src="anime-leaves.gif">
 
 🔭 Waterloo CS '29
 
