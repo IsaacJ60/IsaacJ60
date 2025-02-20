@@ -3,9 +3,9 @@
 -[------->+<]>-.--[-->+++<]>.[----->++<]>++.------------.++++[->++<]>+.+[-->+<]>++.---[->+++<]>+.[->+++++<]>-.++++[->++<]>+.+[->+++++<]>+.++[->+++<]>++..++.[--->+<]>.
 ```
 
-<img margin="20" align="right" width="500" height="343" src="anime-leaves.gif">
-
 ## [About Me](https://github.com/IsaacJ60)
+
+<img margin="20" align="right" width="500" height="300" src="anime-leaves.gif">
 
 🔭 Waterloo CS '29
 
