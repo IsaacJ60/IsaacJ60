@@ -18,6 +18,10 @@
 
 ## Connect with Me 🤝
 
+<a href="https://isaacjiang.ca" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-isaacjiang.ca-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
+  </a>
+
 <p>
   <a href="mailto:isaac.jiang66@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,12 +30,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p> 
-
----
-
-<a href="https://isaacjiang.ca" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-isaacjiang.ca-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
-  </a>
 
 
 ## Tech & Tools 🛠
