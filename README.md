@@ -13,13 +13,6 @@
     <img src="https://img.shields.io/badge/Portfolio-isaacjiang.ca-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
   </a>
 
-### Interests
-- Game Development!🎮
-- Badminton!🏸
-- Video Editing & Gaming!📽️
-- Science Fiction!⚛️
-- Cycling!🚲
-
 ## Connect with Me 🤝
 
 <p>
