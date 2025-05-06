@@ -74,6 +74,8 @@
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IsaacJ60)](https://git.io/streak-stats)
+
 MasseyHacks [blog post](https://www.inspiritai.com/blogs/ai-student-blog/masseyhacks#:~:text=MasseyHacks%20is%20a%20hackathon%20event,its%20welcoming%20and%20inclusive%20environment) written by me!
 
 <!---
