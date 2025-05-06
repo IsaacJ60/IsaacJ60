@@ -73,9 +73,6 @@
   <!-- Blender -->
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IsaacJ60&theme=dark&border_radius=20)](https://git.io/streak-stats)
-
 <!---
 IsaacJ60/IsaacJ60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
