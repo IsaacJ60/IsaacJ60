@@ -7,9 +7,9 @@
 
 <img margin="20" align="right" width="350" height="200" src="anime-leaves.gif">
 
-🔭 Waterloo CS '29
+**SWE Intern @ UW Portal**
 
-SWE Intern @ UW Portal
+🔭 Waterloo CS '29
 
 <a href="https://isaacjiang.ca" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-isaacjiang.ca-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
