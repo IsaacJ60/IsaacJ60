@@ -9,6 +9,8 @@
 
 🔭 Waterloo CS '29
 
+SWE Intern @ UW Portal
+
 <a href="https://isaacjiang.ca" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-isaacjiang.ca-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
   </a>
