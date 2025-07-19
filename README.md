@@ -3,13 +3,15 @@
 -[------->+<]>-.--[-->+++<]>.[----->++<]>++.------------.++++[->++<]>+.+[-->+<]>++.---[->+++<]>+.[->+++++<]>-.++++[->++<]>+.+[->+++++<]>+.++[->+++<]>++..++.[--->+<]>.
 ```
 
-## [About Me](https://github.com/IsaacJ60)
+## [About Me](https://isaacjiang.ca)
 
 <img margin="20" align="right" width="350" height="200" src="anime-leaves.gif">
 
 **SWE Intern @ UW Portal**
 
 🔭 Waterloo CS '29
+
+[Personal Website](https://isaacjiang.ca)
 
 <a href="https://isaacjiang.ca" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-isaacjiang.ca-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
