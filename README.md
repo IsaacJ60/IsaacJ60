@@ -7,8 +7,6 @@
 
 <img margin="20" align="right" width="350" height="200" src="anime-leaves.gif">
 
-**SWE Intern @ UW Portal**
-
 🔭 Waterloo CS '29
 
 <a href="https://isaacjiang.ca" target="_blank">
